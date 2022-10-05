@@ -7,6 +7,6 @@ public class Main {
 
         System.out.println("\nAlgoritmo BFS");
         Grafo g2 = new Grafo();
-        Algoritmos.BFS(g2, 'C');
+        Algoritmos.BFS(g2, 'a');
     }
 }
